@@ -1,6 +1,11 @@
 # docker-cosfs
 docker image for cosfs
 
+## Build
+
+```
+docker build -t u2takey/cosfs .
+```
 
 ## Usage
 
